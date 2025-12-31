@@ -1,5 +1,3 @@
-# **Theme Name**
+# Discourse Fireworks
 
-**Theme Summary**
-
-For more information, please see: **url to meta topic**
+A Discourse theme component for adding fireworks.
